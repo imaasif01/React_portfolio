@@ -12,7 +12,7 @@ const Home = () => {
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 pt-10"
     >
       <div class="py-8 px-4 mx-auto max-w-screen-2xl flex flex-col items-center align-center justify-center h-full text-center lg:py-16 lg:px-12">
-        <h1 class="mb-4 text-4xl font-extrabold tracking-tight  text-gray-900 md:text-5xl lg:text-6xl dark:text-white">
+        <h1 class="mb-4 text-4xl font-extrabold tracking-tight md:text-5xl lg:text-6xl text-white">
           I'm a Front-end React.js developer👨‍💻
         </h1>
         <p class="mb-8 text-xl font-normal text-gray-500  sm:px-16 xl:px-48 dark:text-gray-400 py-4 leading-loose -tracking-tighter">
